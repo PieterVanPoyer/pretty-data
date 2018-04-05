@@ -1,13 +1,12 @@
-# pretty-data - Nodejs plugin
+# piv-pretty-data - Nodejs plugin
 
 nodejs plugin to **pretty-print** or **minify**
 text in **XML**, **JSON**, **CSS**  and  **SQL** formats.
 
-**Version** - 0.50.0
+**Version** - 1.0.0
 
 **Copyright** (c) 2012 Vadim Kiryukhin ( vkiryukhin @ gmail.com )
-
-**Home page:** [http://www.eslinstructor.net/pretty-data/](http://www.eslinstructor.net/pretty-data/) 
+**Copyright** (c) 2018 Pieter Van Poyer 
 
 **License:** Dual licensed under
 the MIT and GPL licenses:

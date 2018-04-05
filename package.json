@@ -1,17 +1,20 @@
 {
-  "name": "pretty-data",
-  "version": "0.50.0",
-  "author": "Vadim Kiryukhin <vkiryukhin@gmail.com>",
+  "name": "piv-pretty-data",
+  "version": "1.0.0",
+  "author": "Pieter Van Poyer",
   "description": "plugin to pretty-print or minify XML, JSON, CSS and SQL files",
   "contributors": [
     {
       "name": "Vadim Kiryukhin",
       "email": "vkiryukhin@gmail.com"
+    },
+    {
+      "name": "Pieter Van Poyer"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/vkiryukhin/pretty-data.git"
+    "url": "https://github.com/PieterVanPoyer/pretty-data"
   },
   "main":"./pretty-data",
   "keywords": [
